@@ -18,9 +18,9 @@ pip install reportlab
 Les identifiants pour vous connecter:
 
 identifiant manager:
-login:bsaesil
-password:BsaeBno2001!!
+login:xxxxxxxx
+password:xxxxxxxxx
 
 identifiant caisier:
-login:caisierpierre
-password:Pierrecaisier!!
+login:xxxxxxxxxx
+password:xxxxxxxxxxx
